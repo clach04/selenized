@@ -90,6 +90,9 @@ because they make assumptions about the colors configured in terminal (see
 However, this is quite rare; vast majority of software works great
 out-of-the-box.
 
+However, this is quite rare; vast majority of software works great
+out-of-the-box.
+
 
 
 Contributing and development
